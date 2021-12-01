@@ -4,4 +4,4 @@
 ### •Nele é proposto a recrianção da página inicial do [Insgram](https://www.instagram.com/)
 
 #### Versao1
-    #### Aaaaaaaaaaaaaaaa
+   Nesta versão eu me desafiei a fazer sozinho, sem seguir o tutorial, apenas olhando a página oficial e utilizando a devtools do navegador para orientação, tive pequenas diferenças de tamanhos.
