@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #fafafa;
+}
+
+.principal{
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    margin-top: 32px;
+    display: inline-flex;
+    padding-bottom: 32px;
+}
+
+.phone-container{
+
+    display: inline-flex;
+    width: 454px;
+    height: 618px;
+    background-size: 454px 618px;
+    background-image: url(https://www.instagram.com/static/images/homepage/home-phones.png/43cc71bb1b43.png);
+
+}
+
+.continue {
+
+    background-color: #fff;
+    width: 350px;
+
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.instagram-tittle{
+    margin-top: 32px;
+}
+
+
+.photo-perfil  img{
+    border-radius: 50%;
+}
+
+.photo-perfil{
+    margin-top: 32px;
+}
+
+#continuar {
+    margin-top: 16px;
+    width: 235px;
+    height: 30px;
+    text-decoration: none;
+    background-color: #0095f6;
+    color: #ffffff;
+    padding-top: 4px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.trocar-de-conta{
+    font-size: 18px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    
+}
+.trocar-de-conta-text{
+    color: #0095f6;
+}
